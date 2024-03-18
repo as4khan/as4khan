@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Areeb Khan</h1>
 <h3 align="center">An Electrical Engineering student currently looking for software developer internships, specifically frontend development</h3>
 
-<img src="https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif" alt="animated" align="right" width="300"/>
+<img src="https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif" alt="animated" align="right" width="400"/>
 
 - 🌱 **I’m currently learning**: Flutter(Dart), MongoDB, SQL
 
