@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif)
+![MasterHead](https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif)
 <h1 align="center">Hi 👋, I'm Areeb Khan</h1>
 <h3 align="center">An Electrical Engineering student currently looking for software developer internships, specifically frontend development</h3>
 
