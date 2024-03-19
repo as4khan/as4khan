@@ -10,7 +10,7 @@
 
 - 💬 **Ask me about**: React, Bootstrap, Tensorflow
 
-- 📫 **How to reach me**: [as4khan@uwaterloo.ca](mailto:as4khan@uwaterloo.ca)
+- 📫 **How to reach me**: [as4khan@uwaterloo.ca](mailto:as4khan@uwaterloo.ca) or [areebsafirkhan10@gmail.com](mailto:areebsafirkhan10@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
